@@ -16,3 +16,5 @@ Take the front caps (rear cap doesn't vent out top) off and either cut more hole
 ![Modified Fuel Cap](/img/450R_fuelcap_modified_underside.jpg)
 
 Thanks to [Joe Henner](https://www.facebook.com/groups/1137977753521359/user/100001246029949/) on [this post](https://www.facebook.com/groups/1137977753521359/permalink/1333146944004438/) for this information
+
+They have now fixed this in the later models. There is now a hole in the center of the rubber as standard.
