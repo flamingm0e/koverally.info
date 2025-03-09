@@ -1,5 +1,5 @@
 ---
-title: "Kove 800X Series"
+title: "Kove 800X"
 description: "Overview and detailed information about the Kove 800X and 800X Rally adventure motorcycles."
 date: 2025-03-08T22:11:43-05:00
 draft: false

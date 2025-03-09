@@ -1,5 +1,5 @@
 ---
-title: "Kove 800X Modifications"
+title: "Mods"
 description: "A list of popular modifications and accessories for the Kove 800X."
 date: 2025-03-08T22:11:43-05:00
 draft: false
