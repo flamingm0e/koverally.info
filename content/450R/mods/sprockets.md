@@ -19,7 +19,7 @@ REAR: 49 tooth
 ---
 
 - 52T Rear sprocket (requires 118 chain links)
-- 51T Rear sprocket (stock chain works)
+- 51T Rear sprocket (stock chain reported to work, some people need 116 chain links)
 - Any sprocket for 2012 - 2019 KTM should work (SUPERSPROX STEALTH REAR SPROCKET RST-990:51 for example or for an affordable option [JT Twinstar Hybrid](https://www.rockymountainatvmc.com/parts/jt-twinstar-hybrid-rear-sprocket-p) rear sprockets have the same hybrid design at half the cost.)
 
 ---
