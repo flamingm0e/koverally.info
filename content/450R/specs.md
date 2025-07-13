@@ -32,7 +32,7 @@ All first generation variants share these specs.
 | Rear Brake       | 240mm Disc, Single piston caliper                                          |
 | Steering Angle   | 38.5 degrees                                                               |
 | Rake Angle       | 28 degrees                                                                 |
-| Fuel Capacity    | 8 gallons                                                                  |
+| Fuel Capacity    | 8 gallons* (real world measure is 7.2 US Gal                               |
 | Estimated Range  | 300+ miles                                                                 |
 | Wheelbase        | 58.7"                                                                      |
 | Dry Weight       | 319.7 pounds                                                               |
