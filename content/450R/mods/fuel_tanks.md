@@ -6,6 +6,10 @@ draft = false
 
 ## Fuel Tanks
 
+### Capacity
+
+Real world fuel capacity, filled at a pump when bone dry was 7.2 US Gal.
+
 ### Rear fuel tank cutoff
 
 The fuel hose size on these bikes is of an odd size, about 7.5 mm. The quick disconnect and fuel back flow connectors are of slightly different diameters.
