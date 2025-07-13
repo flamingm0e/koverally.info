@@ -23,3 +23,10 @@ The NC 450 motor shares some parts with the older Honda engines, specifically 20
 ### Cross-Reference
 - 2005-2017 Honda CRF450X
 - 2002-2007 Honda CRF450R
+
+| Brand    | Kit Type       | Part Number    | Notes/Contents            |
+|----------|----------------|---------------|----------------------------|
+| Barnett  | Complete Kit   | 303-35-10018  | Friction, steel, springs   |
+| EBC (DRC)| Complete Kit   | DRC102        | Friction, steel, springs   |
+| EBC (HD) | Friction Only  | CK1316        | Friction plates only       |
+| Wiseco   | Complete Kit   | CPK007        | Friction, steel, springs   |
